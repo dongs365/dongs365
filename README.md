@@ -1,10 +1,3 @@
 #dongs365
-```mermaid
-graph LR
-A[方形] -->B(圆角)
-    B --> C{条件a}
-    C -->|a=1| D[结果1]
-    C -->|a=2| E[结果2]
-    F[横向流程图]
-```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongs365&show_icons=true&theme=radical)
 
